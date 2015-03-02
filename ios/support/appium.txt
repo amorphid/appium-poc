@@ -1,0 +1,8 @@
+[caps]
+platformName = "ios"
+deviceName ="iPhone Simulator"
+app = "./apps/indianapolis-in.app"
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""

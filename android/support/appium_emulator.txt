@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName =  "Nexus"
+platformVersion =  "4.4"
+orientation = "PORTRAIT"
+app = "/Users/gsypolt/work/github/gannett-android-apps/gannettNews/build/outputs/apk/gannettNews-rochester-debug.apk"
+appPackage = "com.gannett.local.library.news.democratandchronicle"
+appActivity = "com.gannett.android.news.ui.activity.ActivityLoading"
+avd = "Galaxy_Nexus_S_API_19"

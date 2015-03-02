@@ -1,0 +1,15 @@
+[caps]
+appiumVersion = "1.3.3"
+platformName = "android"
+deviceName =  "Android Emulator"
+platformVersion =  "4.4"
+orientation = "PORTRAIT"
+browserName = ""
+name = "Execute GannettNews on Sauce Labs"
+app = "sauce-storage:gannettNews-rochester-debug.apk"
+appPackage = "com.gannett.local.library.news.democratandchronicle"
+appActivity = "com.gannett.android.news.ui.activity.ActivityLoading"
+
+[appium_lib]
+sauce_username = "gannettdigital"
+sauce_access_key = "9096bd49-6bbf-4416-9820-8273e0c73653"

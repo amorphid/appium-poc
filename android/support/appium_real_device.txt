@@ -1,0 +1,7 @@
+[caps]
+platformName = "android"
+deviceName =  "Nexus"
+platformVersion =  "4.4"
+orientation = "PORTRAIT"
+appPackage = "com.gannett.local.library.news.democratandchronicle"
+appActivity = "com.gannett.android.news.ui.activity.ActivityLoading"

@@ -1,0 +1,10 @@
+[caps]
+platformName = "ios"
+platformVersion = "8.1"
+deviceName = "iPhone 4s"
+
+app = "./apps/indianapolis.app"
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""
